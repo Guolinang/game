@@ -1,0 +1,62 @@
+{
+    "maps": [
+        {
+            "fileName": "maps/simplemap.tmx",
+            "height": 960,
+            "width": 1120,
+            "x": 0,
+            "y": 0
+        },
+        {
+            "fileName": "maps/a2.tmx",
+            "height": 960,
+            "width": 1120,
+            "x": 1120,
+            "y": 512
+        },
+        {
+            "fileName": "maps/a3.tmx",
+            "height": 960,
+            "width": 1120,
+            "x": 0,
+            "y": 960
+        },
+        {
+            "fileName": "maps/a4.tmx",
+            "height": 960,
+            "width": 1120,
+            "x": 1120,
+            "y": -448
+        },
+        {
+            "fileName": "maps/a6.tmx",
+            "height": 960,
+            "width": 1120,
+            "x": 0,
+            "y": -960
+        },
+        {
+            "fileName": "maps/a5.tmx",
+            "height": 960,
+            "width": 1120,
+            "x": -1120,
+            "y": 800
+        },
+        {
+            "fileName": "maps/ad.tmx",
+            "height": 480,
+            "width": 640,
+            "x": 2400,
+            "y": 512
+        },
+        {
+            "fileName": "maps/house.tmx",
+            "height": 640,
+            "width": 480,
+            "x": 2432,
+            "y": -480
+        }
+    ],
+    "onlyShowAdjacentMaps": false,
+    "type": "world"
+}
